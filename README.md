@@ -1,11 +1,10 @@
-# shelta_master
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png
+# LARAVEL
+![image](https://user-images.githubusercontent.com/92526424/215315809-0091f8e0-8e8c-4af2-9822-478ca7e0ea0a.png)
 
 
 Build Status Total Downloads Latest Stable Version License
 
-#About Laravel
+# About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
