@@ -1,5 +1,5 @@
 # LARAVEL
-![image](https://user-images.githubusercontent.com/92526424/215315809-0091f8e0-8e8c-4af2-9822-478ca7e0ea0a.png = 100*100)
+![image](https://user-images.githubusercontent.com/92526424/215315809-0091f8e0-8e8c-4af2-9822-478ca7e0ea0a.png)
 
 
 Build Status Total Downloads Latest Stable Version License
