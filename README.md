@@ -1,6 +1,7 @@
 # shelta_master
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALaravel.svg&psig=AOvVaw2zQciGcLqmtI_0IqtqX5C2&ust=1675068511137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJicjcex7PwCFQAAAAAdAAAAABAD
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png
+
 
 Build Status Total Downloads Latest Stable Version License
 
